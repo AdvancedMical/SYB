@@ -1,0 +1,10 @@
+name: SYB
+version: ${project.version}
+main: cn.mcdawncity.syb.SYB
+api-version: 1.13
+depend: [Vault]
+softdepend: [CMI]
+authors: [Mical, WTP016, zhanling]
+description: Save your building. And let players download it.
+commands:
+  syb:

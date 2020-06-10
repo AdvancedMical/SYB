@@ -1,0 +1,5 @@
+Plugin:
+  Prefix: "&9&lSYB"
+  INFO: "&a>> "
+  WARN: "&e>> "
+  ERROR: "&c>> "
